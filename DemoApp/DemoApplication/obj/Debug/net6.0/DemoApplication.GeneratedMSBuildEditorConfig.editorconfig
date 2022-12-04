@@ -1,0 +1,132 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DemoApplication
+build_property.RootNamespace = DemoApplication
+build_property.ProjectDir = C:\Users\zulfu\OneDrive\Desktop\New folder\demo-web-app\DemoApp\DemoApplication\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\zulfu\OneDrive\Desktop\New folder\demo-web-app\DemoApp\DemoApplication
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/zulfu/OneDrive/Desktop/New folder/demo-web-app/DemoApp/DemoApplication/Views/Admin/Author/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQXV0aG9yXEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zulfu/OneDrive/Desktop/New folder/demo-web-app/DemoApp/DemoApplication/Views/Admin/Author/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQXV0aG9yXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zulfu/OneDrive/Desktop/New folder/demo-web-app/DemoApp/DemoApplication/Views/Admin/Author/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQXV0aG9yXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zulfu/OneDrive/Desktop/New folder/demo-web-app/DemoApp/DemoApplication/Views/Admin/Author/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQXV0aG9yXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zulfu/OneDrive/Desktop/New folder/demo-web-app/DemoApp/DemoApplication/Views/Admin/Book/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQm9va1xBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zulfu/OneDrive/Desktop/New folder/demo-web-app/DemoApp/DemoApplication/Views/Admin/Book/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQm9va1xMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zulfu/OneDrive/Desktop/New folder/demo-web-app/DemoApp/DemoApplication/Views/Admin/Book/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQm9va1xVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zulfu/OneDrive/Desktop/New folder/demo-web-app/DemoApp/DemoApplication/Views/Admin/Book/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQm9va1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zulfu/OneDrive/Desktop/New folder/demo-web-app/DemoApp/DemoApplication/Views/Admin/Navbar/AddAsync.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTmF2YmFyXEFkZEFzeW5jLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zulfu/OneDrive/Desktop/New folder/demo-web-app/DemoApp/DemoApplication/Views/Admin/Navbar/ListAsync.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTmF2YmFyXExpc3RBc3luYy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zulfu/OneDrive/Desktop/New folder/demo-web-app/DemoApp/DemoApplication/Views/Admin/Navbar/UpdateAsync.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTmF2YmFyXFVwZGF0ZUFzeW5jLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zulfu/OneDrive/Desktop/New folder/demo-web-app/DemoApp/DemoApplication/Views/Admin/SubNavbar/AddAsync.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU3ViTmF2YmFyXEFkZEFzeW5jLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zulfu/OneDrive/Desktop/New folder/demo-web-app/DemoApp/DemoApplication/Views/Admin/SubNavbar/ListAsync.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU3ViTmF2YmFyXExpc3RBc3luYy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zulfu/OneDrive/Desktop/New folder/demo-web-app/DemoApp/DemoApplication/Views/Admin/SubNavbar/UpdateAsync.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU3ViTmF2YmFyXFVwZGF0ZUFzeW5jLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zulfu/OneDrive/Desktop/New folder/demo-web-app/DemoApp/DemoApplication/Views/Admin/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zulfu/OneDrive/Desktop/New folder/demo-web-app/DemoApp/DemoApplication/Views/Client/Authentication/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEF1dGhlbnRpY2F0aW9uXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zulfu/OneDrive/Desktop/New folder/demo-web-app/DemoApp/DemoApplication/Views/Client/Authentication/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEF1dGhlbnRpY2F0aW9uXFJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zulfu/OneDrive/Desktop/New folder/demo-web-app/DemoApp/DemoApplication/Views/Client/Book/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEJvb2tcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zulfu/OneDrive/Desktop/New folder/demo-web-app/DemoApp/DemoApplication/Views/Client/Book/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEJvb2tcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zulfu/OneDrive/Desktop/New folder/demo-web-app/DemoApp/DemoApplication/Views/Client/Book/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEJvb2tcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zulfu/OneDrive/Desktop/New folder/demo-web-app/DemoApp/DemoApplication/Views/Client/Book/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEJvb2tcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zulfu/OneDrive/Desktop/New folder/demo-web-app/DemoApp/DemoApplication/Views/Client/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEhvbWVcQ29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zulfu/OneDrive/Desktop/New folder/demo-web-app/DemoApp/DemoApplication/Views/Client/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zulfu/OneDrive/Desktop/New folder/demo-web-app/DemoApp/DemoApplication/Views/Client/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zulfu/OneDrive/Desktop/New folder/demo-web-app/DemoApp/DemoApplication/Views/Client/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zulfu/OneDrive/Desktop/New folder/demo-web-app/DemoApp/DemoApplication/Views/Shared/Components/NavbarFooter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTmF2YmFyRm9vdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zulfu/OneDrive/Desktop/New folder/demo-web-app/DemoApp/DemoApplication/Views/Shared/Components/NavbarHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTmF2YmFySGVhZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zulfu/OneDrive/Desktop/New folder/demo-web-app/DemoApp/DemoApplication/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zulfu/OneDrive/Desktop/New folder/demo-web-app/DemoApp/DemoApplication/Views/Shared/_ClientLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DbGllbnRMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
